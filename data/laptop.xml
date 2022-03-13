@@ -1,4 +1,11 @@
-
+<sentences>
+    <sentence id="892:1">
+        <text>Boot time is super fast, around anywhere from 35 seconds to 1 minute.</text>
+        <aspectTerms>
+            <aspectTerm term="Boot time" polarity="positive" from="0" to="9" implicit_sentiment="False" opinion_words="fast"/>
+        </aspectTerms>
+    </sentence>
+  
 
 
 

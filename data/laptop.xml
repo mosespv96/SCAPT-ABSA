@@ -1,8 +1,26 @@
 <sentences>
-    <sentence id="892:1">
-        <text>Boot time is super fast, around anywhere from 35 seconds to 1 minute.</text>
+    <sentence id="100:1">
+        <text>Boot time - Fast. 256GB SSD works and helps the laptop to run faster.</text>
         <aspectTerms>
-            <aspectTerm term="Boot time" polarity="positive" from="0" to="9" implicit_sentiment="False" opinion_words="fast"/>
+            <aspectTerm term="Boot time" polarity="positive" from="0" to="9" implicit_sentiment="False" opinion_words="Fast"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="101:1">
+        <text>User friendly and has a nice processor.  Good battery life.</text>
+        <aspectTerms>
+            <aspectTerm term="battery life" polarity="positive" from="46" to="58" implicit_sentiment="False" opinion_words="Good"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="102:1">
+        <text>User friendly and has a nice processor.  Good battery life.</text>
+        <aspectTerms>
+            <aspectTerm term="processor" polarity="positive" from="29" to="38" implicit_sentiment="False" opinion_words="nice"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="103:1">
+        <text>I literally only had this computer for 30 days and it is acting crazy it will not update and will not allow me to use all of the computer features at all this sucks and I want my money back.</text>
+        <aspectTerms>
+            <aspectTerm term="features" polarity="positive" from="138" to="146" implicit_sentiment="False" opinion_words="acting crazy will not update will not allow me to use"/>
         </aspectTerms>
     </sentence>
   

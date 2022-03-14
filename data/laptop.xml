@@ -20,7 +20,68 @@
     <sentence id="103:1">
         <text>I literally only had this computer for 30 days and it is acting crazy it will not update and will not allow me to use all of the computer features at all this sucks and I want my money back.</text>
         <aspectTerms>
-            <aspectTerm term="features" polarity="positive" from="138" to="146" implicit_sentiment="False" opinion_words="acting crazy will not update will not allow me to use"/>
+            <aspectTerm term="features" polarity="negative" from="138" to="146" implicit_sentiment="False" opinion_words="acting crazy will not update will not allow me to use"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="104:1">
+        <text>Im really enjoying my new Dell laptop. I love the features and how the feel of typing on the keyboard. I reccomend this laptop for the price (: Super satisfied.</text>
+        <aspectTerms>
+            <aspectTerm term="price" polarity="positive" from="135" to="140" implicit_sentiment="False" opinion_words="enjoying recommend"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="105:1">
+        <text>Poor quality. Had to return it in less than two weeks due to a horrible fan noise that came out of nowhere. Too bad it happened, I really liked this laptop for its performance features but its build quality is too questionable.</text>
+        <aspectTerms>
+            <aspectTerm term="feature" polarity="positive" from="176" to="183" implicit_sentiment="False" opinion_words="liked"/>
+            <aspectTerm term="fan noise" polarity="negative" from="72" to="81" implicit_sentiment="False" opinion_words="horrible"/>
+            <aspectTerm term="quality" polarity="negative" from="4" to="11" implicit_sentiment="False" opinion_words="Poor questionable"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="106:1">
+        <text>Poor battery life. Display and speed are okay. In Overall will not recommend.</text>
+        <aspectTerms>
+            <aspectTerm term="Display" polarity="neutral" from="18" to="24" implicit_sentiment="True"/>
+            <aspectTerm term="battery life" polarity="negative" from="4" to="16" implicit_sentiment="False" opinion_words="Poor"/>
+            <aspectTerm term="speed" polarity="neutral" from="29" to="34" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="107:1">
+        <text>I learning to love this light weight laptop for it's functionality and it's speed.  The keys are large enough that I don't have to squint and the only issue is the light that shows the keys, I wish would stay on longer.</text>
+        <aspectTerms>
+            <aspectTerm term="light weight" polarity="positive" from="24" to="36" implicit_sentiment="False" opinion_words="love"/>
+            <aspectTerm term="speed" polarity="positive" from="76" to="81" implicit_sentiment="False" opinion_words="love"/>
+            <aspectTerm term="keys" polarity="positive" from="88" to="92" implicit_sentiment="False" opinion_words="large enough that I don't have to squint"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="108:1">
+        <text>GREAT LAPTOP OVERALL, good speed. Love the fact that it is a touch screen.</text>
+        <aspectTerms>
+            <aspectTerm term="screen" polarity="positive" from="67" to="73" implicit_sentiment="False" opinion_words="Love"/>
+            <aspectTerm term="speed" polarity="positive" from="27" to="32" implicit_sentiment="False" opinion_words="good"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="109:1">
+        <text>Extremely simple to set up.  Powerful enough to run statistics software for class, while I'm taking notes in Google Docs and checking the syllabus online.  The processing speed is good, and graphics are great.  Figuring out how to access the software that comes with it (McAfee, I think???) via Best Buy's "library" is a bit confusing, but overall a great purchase experience.</text>
+        <aspectTerms>
+            <aspectTerm term="set up" polarity="positive" from="20" to="26" implicit_sentiment="False" opinion_words="Extremely simple"/>
+            <aspectTerm term="statistics software" polarity="positive" from="52" to="72" implicit_sentiment="False" opinion_words="Powerful"/>
+            <aspectTerm term="speed" polarity="positive" from="171" to="176" implicit_sentiment="False" opinion_words="good"/>
+            <aspectTerm term="graphics" polarity="positive" from="190" to="198" implicit_sentiment="False" opinion_words="great"/>
+            <aspectTerm term="access the software" polarity="negative" from="231" to="250" implicit_sentiment="False" opinion_words="confusing"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="110:1">
+        <text>User friendly,lightweight & durable,very good looking & great finish product.</text>
+        <aspectTerms>
+            <aspectTerm term="durable" polarity="positive" from="28" to="35" implicit_sentiment="True"/>
+            <aspectTerm term="weight" polarity="positive" from="19" to="26" implicit_sentiment="False" opinion_words="light"/>
+            <aspectTerm term="product" polarity="positive" from="69" to="76" implicit_sentiment="False" opinion_words="very good looking and great finish"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="111:1">
+        <text>There are better laptops for the price.</text>
+        <aspectTerms>
+            <aspectTerm term="price" polarity="negative" from="33" to="38" implicit_sentiment="True"/>
         </aspectTerms>
     </sentence>
   

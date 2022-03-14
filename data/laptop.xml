@@ -201,12 +201,101 @@ had weird noise soon after purchase and took in to check</text>
             <aspectTerm term="storage" polarity="negative" from="156" to="163" implicit_sentiment="True"/>
         </aspectTerms>
     </sentence>
-     <sentence id="130:1">
+    <sentence id="130:1">
         <text>Gave this to my grandson for his startup, he uses it every day.  Easy to use.</text>
         <aspectTerms>
             <aspectTerm term="use" polarity="positive" from="45" to="49" implicit_sentiment="False" opinion_words="Easy"/>
         </aspectTerms>
     </sentence>
+    <sentence id="131:1">
+        <text>Good size laptop to transport. Very light weight and useful.</text>
+        <aspectTerms>
+            <aspectTerm term="size" polarity="positive" from="5" to="9" implicit_sentiment="False" opinion_words="Good"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="132:1">
+        <text>It is an excellent value for laptop. Its not too heavy has nice amount of storage and ram. The the ability to turn into a tablet as well</text>
+        <aspectTerms>
+            <aspectTerm term="ram" polarity="positive" from="86" to="89" implicit_sentiment="False" opinion_words="nice"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="133:1">
+        <text>It is an excellent value for laptop. Its not too heavy has nice amount of storage and ram. The the ability to turn into a tablet as well</text>
+        <aspectTerms>
+            <aspectTerm term="storage" polarity="positive" from="74" to="81" implicit_sentiment="False" opinion_words="nice"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="134:1">
+        <text>Great machine. Fast for web surfing, Zoom video calls, streaming shows. Webcam is adequate but far from great. Battery life is very good - typical is like 8hrs. Tried a pen with MS OneNote and it wasnt responsive enough for note taking - so I returned the pen.</text>
+        <aspectTerms>
+            <aspectTerm term="Webcam" polarity="neutral" from="72" to="78" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="135:1">
+        <text>Great machine. Fast for web surfing, Zoom video calls, streaming shows. Webcam is adequate but far from great. Battery life is very good - typical is like 8hrs. Tried a pen with MS OneNote and it wasnt responsive enough for note taking - so I returned the pen.</text>
+        <aspectTerms>
+            <aspectTerm term="pen" polarity="negative" from="169" to="172" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="136:1">
+        <text>Great machine. Fast for web surfing, Zoom video calls, streaming shows. Webcam is adequate but far from great. Battery life is very good - typical is like 8hrs. Tried a pen with MS OneNote and it wasnt responsive enough for note taking - so I returned the pen.</text>
+        <aspectTerms>
+            <aspectTerm term="web surfing" polarity="positive" from="24" to="35" implicit_sentiment="False" opinion_words="Fast"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="137:1">
+        <text>Really good performance, battery disappointing</text>
+        <aspectTerms>
+            <aspectTerm term="battery" polarity="negative" from="25" to="32" implicit_sentiment="False" opinion_words="disappointing"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="138:1">
+        <text>Really good performance, battery disappointing</text>
+        <aspectTerms>
+            <aspectTerm term="performance" polarity="positive" from="12" to="23" implicit_sentiment="False" opinion_words="good"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="139:1">
+        <text>Crisp Picture Quality and Great Sound</text>
+        <aspectTerms>
+            <aspectTerm term="Sound" polarity="positive" from="32" to="37" implicit_sentiment="False" opinion_words="Great"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="140:1">
+        <text>Crisp Picture Quality and Great Sound</text>
+        <aspectTerms>
+            <aspectTerm term="Picture" polarity="positive" from="6" to="13" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="141:1">
+        <text>The fans were so loud it sound like table fan going off, straight out of the box.</text>
+        <aspectTerms>
+            <aspectTerm term="fans" polarity="negative" from="3" to="7" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="142:1">
+        <text> Brah the sound doesn’t work anymore just tire of spending money</text>
+        <aspectTerms>
+            <aspectTerm term="sound" polarity="negative" from="9" to="14" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="143:1">
+        <text> Was expecting better quality but the speaker sounds like a blown out car speaker.</text>
+        <aspectTerms>
+            <aspectTerm term="sounds" polarity="negative" from="46" to="52" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="144:1">
+        <text>Great computer. Extremely fast, hate windows 11 but the hardware is great.</text>
+        <aspectTerms>
+            <aspectTerm term="windows 11" polarity="negative" from="37" to="47" implicit_sentiment="False opinion_words="hate"/>
+        </aspectTerms>
+    </sentence>
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              
+    
+    
 
 
 

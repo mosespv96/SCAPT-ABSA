@@ -288,9 +288,47 @@ had weird noise soon after purchase and took in to check</text>
     <sentence id="144:1">
         <text>Great computer. Extremely fast, hate windows 11 but the hardware is great.</text>
         <aspectTerms>
-            <aspectTerm term="windows 11" polarity="negative" from="37" to="47" implicit_sentiment="False opinion_words="hate"/>
+            <aspectTerm term="windows 11" polarity="negative" from="37" to="47" implicit_sentiment="False" opinion_words="hate"/>
         </aspectTerms>
     </sentence>
+    <sentence id="145:1">
+        <text>Very high quality, excellent graphics and CPU power. Perfect for a graphic design student.</text>
+        <aspectTerms>
+            <aspectTerm term="CPU" polarity="positive" from="42" to="45" implicit_sentiment="False" opinion_words="excellent"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="146:1">
+        <text>Excellent device. Works well. Very well designed. Bang for the bucks.</text>
+        <aspectTerms>
+            <aspectTerm term="designed" polarity="positive" from="40" to="48" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="147:1">
+        <text>Sleek, light design, fast charging and good battery life.</text>
+        <aspectTerms>
+            <aspectTerm term="charging" polarity="positive" from="26" to="34" implicit_sentiment="False" opinion_words="fast"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="148:1">
+        <text>Sleek, light design, fast charging and good battery life.</text>
+        <aspectTerms>
+            <aspectTerm term="design" polarity="positive" from="13" to="19" implicit_sentiment="False" opinion_words="light"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="149:1">
+        <text>Very fast but the camera is terrible, I called Apple and was told it was a design flaw they made the hole for the camera to small so not enough light gets through. Will be fixed in 2022. So I had to return it.</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="negative" from="18" to="24" implicit_sentiment="False" opinion_words="terrible"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="150:1">
+        <text>Gets the job done! Lighting fast… lasts forever off of a single charge.</text>
+        <aspectTerms>
+            <aspectTerm term="charge" polarity="positive" from="64" to="70" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    
+    
                                                                                                                               
                                                                                                                               
                                                                                                                               

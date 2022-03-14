@@ -84,7 +84,129 @@
             <aspectTerm term="price" polarity="negative" from="33" to="38" implicit_sentiment="True"/>
         </aspectTerms>
     </sentence>
-  
+    <sentence id="112:1">
+        <text>Great machine for the price. Good performance look and feel. I highly recommend Dell products.</text>
+        <aspectTerms>
+            <aspectTerm term="performance" polarity="positive" from="34" to="45" implicit_sentiment="False" opinion_words="Good"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="113:1">
+        <text>Performance is not good. Though I haven't tested using complex applications because the laptop keeps hanging for small apps like one note, word, etc. I don't recommend this at all. Best buy is not accepting returns as the return period is expired which is 20 days (Unusual).</text>
+        <aspectTerms>
+            <aspectTerm term="Performance" polarity="negative" from="0" to="10" implicit_sentiment="False" opinion_words="not good"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="114:1">
+        <text>Very quick and easy to set up. The performance seems good to this point and the battery life is strong. The only downside is that it seems a bit heavy for it's size.</text>
+        <aspectTerms>
+            <aspectTerm term="size" polarity="negative" from="160" to="164" implicit_sentiment="False" opinion_words="downside heavy"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="115:1">
+        <text>Very quick and easy to set up. The performance seems good to this point and the battery life is strong. The only downside is that it seems a bit heavy for it's size.</text>
+        <aspectTerms>
+            <aspectTerm term="battery life" polarity="positive" from="80" to="92" implicit_sentiment="False" opinion_words="strong"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="116:1">
+        <text>Nice screen. Mouse stopped working after a week or two. I have to use an external mouse.</text>
+        <aspectTerms>
+            <aspectTerm term="working" polarity="negative" from="13" to="18" implicit_sentiment="False" opinion_words="stopped working"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="117:1">
+        <text>Nice screen. Mouse stopped working after a week or two. I have to use an external mouse.</text>
+        <aspectTerms>
+            <aspectTerm term="screen" polarity="positive" from="4" to="10" implicit_sentiment="False" opinion_words="Nice"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="118:1">
+        <text>My only complaints are battery life - only 8 hours and only 2 USB ports.</text>
+        <aspectTerms>
+            <aspectTerm term="USB ports" polarity="negative" from="62" to="71" implicit_sentiment="False" opinion_words="complaints"/>
+            <aspectTerm term="battery life" polarity="negative" from="23" to="35" implicit_sentiment="False" opinion_words="complaints"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="119:1">
+        <text>I am very pleased with this laptop. I love the back lit keyboard,</text>
+        <aspectTerms>
+            <aspectTerm term="keyboard" polarity="positive" from="56" to="64" implicit_sentiment="False" opinion_words="love"/>
+            <aspectTerm term="laptop" polarity="positive" from="28" to="34" implicit_sentiment="False" opinion_words="pleased"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="120:1">
+        <text>black keyboard hard to see in dim light
+a few slow responses to keys
+had weird noise soon after purchase and took in to check</text>
+        <aspectTerms>
+            <aspectTerm term="keyboard" polarity="negative" from="6" to="64" implicit_sentiment="True"/>
+            <aspectTerm term="keys" polarity="negative" from="64" to="68" implicit_sentiment="False" opinion_words="slow"/>
+            <aspectTerm term="noise" polarity="negative" from="79" to="84" implicit_sentiment="False" opinion_words="weird"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="121:1">
+        <text>My first AMD based laptop and I have to say, I am impressed.  It has great fast processor, lots of RAM, and plenty of storage for all of my needs.  Browsing is fast, wireless networking adapter works great, overall device runs cool to the touch.  Competitively priced.</text>
+        <aspectTerms>
+            <aspectTerm term="processor" polarity="positive" from="80" to="89" implicit_sentiment="False" opinion_words="fast"/>
+            <aspectTerm term="storage" polarity="positive" from="118" to="127" implicit_sentiment="False" opinion_words="plenty"/>
+            <aspectTerm term="priced" polarity="positive" from="261" to="267" implicit_sentiment="False" opinion_words="Competitively"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="122:1">
+        <text>Browsing is fast, wireless networking adapter works great, overall device runs cool to the touch.</text>
+        <aspectTerms>
+            <aspectTerm term="Browsing" polarity="positive" from="0" to="7" implicit_sentiment="False" opinion_words="fast"/>
+            <aspectTerm term="adapter" polarity="positive" from="38" to="45" implicit_sentiment="False" opinion_words="great"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="123:1">
+        <text>WiFi is particularly snappy in this laptop thanks to the 802.11ax-capable card installed.</text>
+        <aspectTerms>
+            <aspectTerm term="WiFi" polarity="negative" from="0" to="3" implicit_sentiment="False" opinion_words="snappy"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="124:1">
+        <text>Good laptop, worked well for me but I had a hard time connecting it to WiFi</text>
+        <aspectTerms>
+            <aspectTerm term="WiFi" polarity="negative" from="71" to="75" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="125:1">
+        <text>Not even a week old, free of dust and debris. Space bar decided to stick. Unsure why. After tapping the space bar again, it started functioning normally. Not so happy at the moment.</text>
+        <aspectTerms>
+            <aspectTerm term="Space bar" polarity="negative" from="46" to="55" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="126:1">
+        <text>Laptop was slow not sure if its only my laptop or the M1 chip itself is slow. Also the webcam is worse</text>
+        <aspectTerms>
+            <aspectTerm term="webcam" polarity="negative" from="87" to="93" implicit_sentiment="False" opinion_words="worse"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="127:1">
+        <text>The device seems to have a charging issue, doesn’t charge while using. When it runs low on power, have to shutdown and recharge. </text>
+        <aspectTerms>
+            <aspectTerm term="charging" polarity="negative" from="27" to="35" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="128:1">
+        <text>Still learning it coming from pc.  But it’s a nice little laptop. Definitely cool finger scanner. A plus.</text>
+        <aspectTerms>
+            <aspectTerm term="finger scanner" polarity="positive" from="82" to="96" implicit_sentiment="False" opinion_words="cool"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="129:1">
+        <text>It's a good laptop. It definitely gets the job done, its a part of my apple family now  I like it a lot, I wish I would've gotten the MacBook pro with more storage for what I want to do with it, but it works as is</text>
+        <aspectTerms>
+            <aspectTerm term="storage" polarity="negative" from="156" to="163" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+     <sentence id="130:1">
+        <text>Gave this to my grandson for his startup, he uses it every day.  Easy to use.</text>
+        <aspectTerms>
+            <aspectTerm term="use" polarity="positive" from="45" to="49" implicit_sentiment="False" opinion_words="Easy"/>
+        </aspectTerms>
+    </sentence>
 
 
 
